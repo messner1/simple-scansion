@@ -1,0 +1,22 @@
+
+
+.line div {line-height: 1.5;}
+
+.poem div {padding-top:5px;padding-bottom:5px;}
+
+.overline {
+    text-decoration: overline;
+}
+
+.metricalbreve {
+    background-image: url(metrical_breve.png);
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    padding-top: 4px;
+    white-space: nowrap;
+}
+
+#selectionBox{
+    border: 2px solid black;
+    width: 350px;
+}
